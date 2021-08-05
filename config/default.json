@@ -1,0 +1,13 @@
+{
+  "server": {
+    "port": 8081
+  },
+  "mongodb": {
+    "host": "merndb.bxegw.gcp.mongodb.net",
+    "port": 27017,
+    "user": "mohit",
+    "password": "PQ7mbndPS63EIcjk",
+    "dbname": "mern-app-test"
+  },
+  "allowedFileTypes": [ "jpeg", "jpg", "png", "jfif" ]
+}
